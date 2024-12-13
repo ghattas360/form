@@ -13,4 +13,4 @@ This example shows the simplest way to handle form in HTMX using `hx-post`.
             <button type="submit" class="btn btn-primary">Post</button>
         </div>
     </form>
-```
+```# form
